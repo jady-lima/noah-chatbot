@@ -1,0 +1,1 @@
+# Passos para configurar o ambiente local
