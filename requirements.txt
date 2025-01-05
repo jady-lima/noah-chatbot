@@ -1,0 +1,4 @@
+bertopic
+scikit-learn
+numpy
+pandas
